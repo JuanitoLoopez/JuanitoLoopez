@@ -51,7 +51,7 @@ Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-078
 <a href="https://www.twitter.com/juanitoloopez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="35px" height="35px" /></a>
 </p>
 
-  If you're interested in learning more about my work, feel free to reach out to me at (+502) 3733-6087 or contact@juanitolopezprofessional.com. I look forward to connecting with you!
+  If you're interested in learning more about my work, feel free to reach out to me at (+502) 3733-6087 or juanchito15810@gmail.com. I look forward to connecting with you!
 
 <!-- -
 JuanitoLoopez/JuanitoLoopez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
