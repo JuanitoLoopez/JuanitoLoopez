@@ -4,7 +4,7 @@ Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-078
 <!-- Mobile developer
 ----------------- -->
 
-  As a passionate mobile developer with +2 years of experience, I specialize in analyzing and developing top-notch computer systems using cutting-edge tools such as Dart, Flutter, LQLite, Docker, Java, PostgreSQL, JS, CSS, HTML. With a keen eye for detail and a deep understanding of programming paradigms such as MVC, OOP, and Functional Programming, I have successfully completed a variety of complex projects and exceeded client expectations.
+  As a passionate backend developer with +2 years of experience, I specialize in analyzing and developing top-notch computer systems using cutting-edge tools such as Dart, Flutter, LQLite, Docker, Java, PostgreSQL, JS, CSS, HTML. With a keen eye for detail and a deep understanding of programming paradigms such as MVC, OOP, and Functional Programming, I have successfully completed a variety of complex projects and exceeded client expectations.
 
   What sets me apart from the rest is my ability to work collaboratively, communicate effectively, and manage my time efficiently. I have honed these skills over the years, working with cross-functional teams and implementing agile methodologies such as Scrum to ensure timely project delivery.
 
