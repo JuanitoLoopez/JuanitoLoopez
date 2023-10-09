@@ -1,8 +1,12 @@
-Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm @JuanitoLoopez
+Hi there. My name is Juan Lopez
 ==================================================================================================================================
 
-<!-- Mobile developer
------------------ -->
+Backend Engineer
+----------------
+
+* 🌍  I'm based in Guatemala City, Latino América
+<!-- * 🖥️  See my portfolio at [juanitolopezprofessional.com](http://www.juanitolopezprofessional.com) -->
+* ✉️  You can contact me at [contact@juanitolopezprofessional.com](mailto:contact@juanitolopezprofessional.com)
 
   I am a backend developer with +2 years of experience with Java & PostgreSQL. I am mainly dedicated to the analysis and development of computer systems, mainly with the use of tools such as Java 8 & 17, Spring, SQL, PostgreSQL, MongoDB, Flutter, Dart, SQLite, Junit, Selenium, JavaScript, TypeScript, Node, Rest API, Git, GitHub, Docker, Linux, HTML & CSS. In addition to the use of architectures and programming paradigms such as MVC, OOP, and Functional Programming.
 
